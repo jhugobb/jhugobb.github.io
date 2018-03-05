@@ -1,0 +1,58 @@
+# Welcome to Jekyll!
+#
+
+# Site settings
+title: RabbitHole
+description: |
+  Welcome to the part of me that I think you should know. 
+  Let's see how far in the Rabbithole you get.
+owner: Hugo Brandão # or company name
+first_published: 2018 # if migrating another site, the year of your first publish
+email: hugo.b.brandao@gmail.com
+baseurl: "jhugobb.github.io" # the subpath of your site, e.g. /blog
+url: "jhugobb.github.io" # the base hostname & protocol for your site
+social:
+  #twitter: https://twitter.com/<username>
+  github: https://github.com/jhugobb
+  #linkedin-square: https://linkedin.com/in/<username>
+  facebook-official: https://facebook.com/SizzleMeThis
+  #google-plus-square: https://plus.google.com/u/0/+<username>
+  email: /contact/
+  #flickr:
+  #instagram:
+  #youtube-square:
+  #spotify:
+  #stack-overflow:
+  #vimeo:
+  #reddit:
+  #stubleupon:
+  #delicious:
+  #pied-piper:
+  #digg:
+  #soundcloud:
+  #deviantart:
+  #angellist:
+  #tumblr-square:
+  #stackexchange:
+  #weibo:
+  #trello:
+  #foursquare:
+  #linux:
+  #bitbucket-square:
+  #vk:
+  #slack:
+  #vine:
+  #weixin:
+  #yelp:
+  #skyatlas:
+  #leanpub:
+  #connectdevelop:
+  #ils:
+  #forumbee:
+  #tripadvisor:
+  #amazon:
+
+# Build settings
+markdown: kramdown
+#sass:
+#  style: compressed
