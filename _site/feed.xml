@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RabbitHole | A Nerd-Controlled Blog</title>
+    <description>The life and unlife of a nerd called Hugo</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 07 Mar 2018 00:08:21 +0100</pubDate>
+    <lastBuildDate>Wed, 07 Mar 2018 00:08:21 +0100</lastBuildDate>
+    <generator>Jekyll v3.5.1</generator>
+    
+      <item>
+        <title>Welcome to my blog</title>
+        <description>&lt;h2 id=&quot;greetings-and-salutations&quot;&gt;Greetings and salutations!&lt;/h2&gt;
+
+&lt;p&gt;My name is Hugo and welcome to my blog/personal website - RabbitHole.&lt;/p&gt;
+
+&lt;p&gt;You’ll find here information about me here and some posts about what I think and do.&lt;/p&gt;
+
+&lt;p&gt;Maybe you’ll find some of my friend’s thoughts too!&lt;/p&gt;
+
+&lt;p&gt;I’ll try (and most likely fail) to post weekly about a random topic that I find relevant.&lt;/p&gt;
+
+&lt;p&gt;Until then,&lt;/p&gt;
+
+&lt;p&gt;&lt;cite&gt; Hugo&lt;/cite&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 06 Mar 2018 23:31:17 +0100</pubDate>
+        <link>http://localhost:4000/welcome-to-my-blog/</link>
+        <guid isPermaLink="true">http://localhost:4000/welcome-to-my-blog/</guid>
+        
+        <category>Welcome</category>
+        
+        <category>Greeting</category>
+        
+        <category>And</category>
+        
+        <category>Salutations</category>
+        
+        
+        <category>Random</category>
+        
+      </item>
+    
+      <item>
+        <title>Train Social Engineering</title>
+        <description>&lt;p&gt;Since my first year of college I’ve had to commute by train twice a week. It’s a 2 hour journey and after finishing all of my “To Read” List and listening to all of the podcasts my phone can hold, I’ve needed something else to occupy my mind. I resorted to people watch, but instead of watching the passengers I felt drawn to the conductor. Specifically, why he asked certain people for tickets and others he just ignored. See, in Portugal the conductor doesn’t ask for your ticket when you’re boarding the train. He asks for it after the train...</description>
+        <pubDate>Wed, 06 Sep 2017 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/train-social-engineering/</link>
+        <guid isPermaLink="true">http://localhost:4000/train-social-engineering/</guid>
+        
+        <category>Social Engineering</category>
+        
+        <category>Portugal</category>
+        
+        <category>SE</category>
+        
+        
+        <category>Social Engineering</category>
+        
+      </item>
+    
+  </channel>
+</rss>

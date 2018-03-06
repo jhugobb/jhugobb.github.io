@@ -1,58 +1,46 @@
-# Welcome to Jekyll!
-#
-
-# Site settings
-title: RabbitHole
-description: |
-  Welcome to the part of me that I think you should know. 
-  Let's see how far in the Rabbithole you get.
-owner: Hugo Brandão # or company name
-first_published: 2018 # if migrating another site, the year of your first publish
+# Site Settings
+title: RabbitHole | A Nerd-Controlled Blog
 email: hugo.b.brandao@gmail.com
-baseurl: "jhugobb.github.io" # the subpath of your site, e.g. /blog
-url: "jhugobb.github.io" # the base hostname & protocol for your site
-social:
-  #twitter: https://twitter.com/<username>
-  github: https://github.com/jhugobb
-  #linkedin-square: https://linkedin.com/in/<username>
-  facebook-official: https://facebook.com/SizzleMeThis
-  #google-plus-square: https://plus.google.com/u/0/+<username>
-  email: /contact/
-  #flickr:
-  #instagram:
-  #youtube-square:
-  #spotify:
-  #stack-overflow:
-  #vimeo:
-  #reddit:
-  #stubleupon:
-  #delicious:
-  #pied-piper:
-  #digg:
-  #soundcloud:
-  #deviantart:
-  #angellist:
-  #tumblr-square:
-  #stackexchange:
-  #weibo:
-  #trello:
-  #foursquare:
-  #linux:
-  #bitbucket-square:
-  #vk:
-  #slack:
-  #vine:
-  #weixin:
-  #yelp:
-  #skyatlas:
-  #leanpub:
-  #connectdevelop:
-  #ils:
-  #forumbee:
-  #tripadvisor:
-  #amazon:
+description: The life and unlife of a nerd called Hugo
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
+#google_analytics: "UA-XXXXXXXX-X"
+
+# User Settings
+username: RabbitHole
+user_description: Some text about me that I'm too lazy to write.
+#disqus_username: disqus_username
+
+# Social Media
+# Remove the item if you don't need it
+github_username: jhugobb
+facebook_username: SizzleMeThis
+#twitter_username: twitter_username
+instagram_username: jotahbb
+#linkedin_username: linkedin_username
+#medium_username: medium_username
 
 # Build settings
 markdown: kramdown
-#sass:
-#  style: compressed
+highlighter: rouge
+permalink: /:title/
+
+# Plugins
+gems:
+  - jemoji
+
+# Links to include in menu navigation
+# For external links add external: true
+links:
+  - title: Home
+    url: /
+  - title: About
+    url: /about/
+  - title: Professional
+    url: /pro/
+  - title: Contact
+    url: /contact/
+
+
+# Exclude my node related stuff
+exclude: ['package.json', 'src', 'node_modules']

@@ -1,0 +1,7 @@
+{% capture minuteago %}{{ "now" | date: "%s" | minus: 60 }}{% endcapture %}
+{% capture posttime %}{{ include.date | date: "%s" }}{% endcapture %}
+{% if posttime > minuteago %}
+{% assign isnewpost = true %}
+{% else %}
+{% assign isnewpost = false %}
+{% endif %}
