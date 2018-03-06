@@ -3,10 +3,10 @@
   <channel>
     <title>RabbitHole | A Nerd-Controlled Blog</title>
     <description>The life and unlife of a nerd called Hugo</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 07 Mar 2018 00:08:21 +0100</pubDate>
-    <lastBuildDate>Wed, 07 Mar 2018 00:08:21 +0100</lastBuildDate>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 07 Mar 2018 00:14:39 +0100</pubDate>
+    <lastBuildDate>Wed, 07 Mar 2018 00:14:39 +0100</lastBuildDate>
     <generator>Jekyll v3.5.1</generator>
     
       <item>
@@ -27,8 +27,8 @@
 
 </description>
         <pubDate>Tue, 06 Mar 2018 23:31:17 +0100</pubDate>
-        <link>http://localhost:4000/welcome-to-my-blog/</link>
-        <guid isPermaLink="true">http://localhost:4000/welcome-to-my-blog/</guid>
+        <link>/welcome-to-my-blog/</link>
+        <guid isPermaLink="true">/welcome-to-my-blog/</guid>
         
         <category>Welcome</category>
         
@@ -47,8 +47,8 @@
         <title>Train Social Engineering</title>
         <description>&lt;p&gt;Since my first year of college I’ve had to commute by train twice a week. It’s a 2 hour journey and after finishing all of my “To Read” List and listening to all of the podcasts my phone can hold, I’ve needed something else to occupy my mind. I resorted to people watch, but instead of watching the passengers I felt drawn to the conductor. Specifically, why he asked certain people for tickets and others he just ignored. See, in Portugal the conductor doesn’t ask for your ticket when you’re boarding the train. He asks for it after the train...</description>
         <pubDate>Wed, 06 Sep 2017 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/train-social-engineering/</link>
-        <guid isPermaLink="true">http://localhost:4000/train-social-engineering/</guid>
+        <link>/train-social-engineering/</link>
+        <guid isPermaLink="true">/train-social-engineering/</guid>
         
         <category>Social Engineering</category>
         
