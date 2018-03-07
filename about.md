@@ -79,6 +79,6 @@ Don't think that's enough of me? Keep a look ou for my posts, you might just be 
 
 ### Professional Information
 
-Please click [this link](https://jhugobb.github.com/pro) to see my professional path.
+Please click [this link](https://jhugobb.github.io/pro) to see my professional path.
 
  
